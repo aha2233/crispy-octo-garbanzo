@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.
 Create feature。
 merger dev
 add
-test manage
+test manage git merge --no-ff -m "XXX" XXX
