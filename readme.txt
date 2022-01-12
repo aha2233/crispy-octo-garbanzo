@@ -7,7 +7,3 @@ Creating a new branch is quick and simple.
 Create feature。
 merger dev
 add
-test manage
-this is a line test code .
-ooooo
-hhhhhhh
