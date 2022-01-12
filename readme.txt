@@ -5,4 +5,4 @@ Git tracks changes.
 My boss still prefers SVN.
 Creating a new branch is quick and simple.
 Create feature。
-merger master
+merger dev
