@@ -8,3 +8,5 @@ Create feature。
 merger dev
 add
 test manage git merge --no-ff -m "XXX" XXX
+Git is free software...
+
